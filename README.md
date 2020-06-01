@@ -1,2 +1,2 @@
 # Dario
-A python CLI-based mockup operating system.
+A python CLI-based linux emulation.
