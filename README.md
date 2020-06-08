@@ -1,2 +1,2 @@
 # Dario
-A python CLI-based linux emulation.
+A python CLI-based OS emulation.
